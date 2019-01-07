@@ -1,0 +1,192 @@
+@charset "utf-8";
+	#fiume
+{
+	position : absolute ;
+	left : 397pt;
+	top : 907pt;
+	width : 987pt;
+	height : 172pt;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+#arancione1
+{
+	position : absolute ;
+	left : 587pt;
+	top : -1pt;
+	width : 436pt;
+	height : 438pt;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+#logoOrli
+{
+
+	position : absolute ;
+	left : 41pt;
+	top : 19pt;
+	width : 496pt;
+	height : 260pt;
+}
+#pesca4
+{
+	position : absolute ;
+	left : 0pt;
+	top : 364pt;
+	width : 83pt;
+	height : 263pt;
+}
+#giallo2
+{
+	position : absolute ;
+	left : 976pt;
+	top : 0pt;
+	width : 692pt;
+	height : 52pt;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+#fuxia8
+{
+	position : absolute ;
+	left : 1575pt;
+	top : 63pt;
+	width : 345pt;
+	height : 672pt;
+}
+#fuxia9
+{
+	position : absolute ;
+	left : 0pt;
+	top : 627pt;
+	width : 561pt;
+	height : 452pt;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+#fuxia11
+{
+	position : absolute ;
+	left : 995pt;
+	top : 538pt;
+	width : 263pt;
+	height : 199pt;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+#giallo5
+{
+	position : absolute ;
+	left : 127pt;
+	top : 390pt;
+	width : 636pt;
+	height : 310pt;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+#rosa15
+{
+	position : absolute ;
+	left : 527pt;
+	top : 984pt;
+	width : 630pt;
+	height : 96pt;
+}
+#arancione10
+{
+	position : absolute ;
+	left : 540pt;
+	top : 572pt;
+	width : 436pt;
+	height : 348pt;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+#pesca12
+{
+	position : absolute ;
+	left : 896pt;
+	top : 753pt;
+	width : 431pt;
+	height : 261pt;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+#rosa14
+{
+	position : absolute ;
+	left : 1523pt;
+	top : 719pt;
+	width : 396pt;
+	height : 360pt;
+}
+#pesca6
+{
+	position : absolute ;
+	left : 736pt;
+	top : 466pt;
+	width : 213pt;
+	height : 120pt;
+}
+#rosa7
+{
+	position : absolute ;
+	left : 961pt;
+	top : 60pt;
+	width : 721pt;
+	height : 496pt;
+}
+.facebook
+{
+	background-image : url(facebook.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 275pt;
+	top : 285pt;
+	width : 48pt;
+	height : 48pt;
+}
+#giallo13
+{
+	position : absolute ;
+	left : 1218pt;
+	top : 566pt;
+	width : 464pt;
+	height : 514pt;
+}
+.instagram
+{
+	background-image : url(instagram.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 156pt;
+	top : 286pt;
+	width : 46pt;
+	height : 46pt;
+}
+#arancione3
+{
+	position : absolute ;
+	left : 1705pt;
+	top : 0pt;
+	width : 215pt;
+	height : 101pt;
+}
+.email
+{
+	background-image : url(email.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 397pt;
+	top : 286pt;
+	width : 46pt;
+	height : 46pt;
+}
