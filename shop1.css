@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+#casaShop
+	{
+	position : absolute ;
+	left : 132px;
+	top : 39px;
+	width : 331px;
+	height : 331px;}
+
+#titoloShop
+	{position: absolute;
+	left :850px;
+	top : 10px;
+	font-family : DK Lemon Yellow Sun;
+	font-size : 72px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+
+#descrizioneShop
+	{position: absolute;
+	left : 518px;
+	top : 150px;
+	font-family : Futura Md BT;
+	font-size : 21px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+
+#frecciaIndietro
+{
+	position : absolute ;
+	left : 165px;
+	top : 430px;
+	width : 72px;
+	height : 72px;
+}
+
+#frecciaHome
+{
+	position : absolute ;
+	left : 259px;
+	top : 408px;
+	width : 70px;
+	height : 93px;
+}
+
+#frecciaAvanti
+{
+	position : absolute ;
+	left : 353px;
+	top : 432px;
+	width : 72px;
+	height : 72px;
+}
+
+/* menu principale dello shop*/
+#paginaAdesivo
+{
+	position : absolute ;
+	left : 133px;
+	top : 578px;
+	width : 331px;
+	height : 332px;
+}
+
+#paginaBorsa
+{
+	position : absolute ;
+	left : 518px;
+	top : 578px;
+	width : 331px;
+	height : 332px;
+}
+
+#paginaCuscino
+{
+	position : absolute ;
+	
+	left : 903px;
+	top : 578px;
+	width : 331px;
+	height : 332px;
+}
+
+	#paginaPoster
+{
+	position : absolute ;
+	left : 133px;
+	top : 963px;
+	width : 331px;
+	height : 331px;
+}
+
+#paginaQuaderno
+{
+	position : absolute ;
+	left : 518px;
+	top : 963px;
+	width : 331px;
+	height : 331px;
+}
+
+#paginaTazza
+{
+	position : absolute ;
+	left : 903px;
+	top : 963px;
+	width : 331px;
+	height : 331px;
+}
+
+
+
+

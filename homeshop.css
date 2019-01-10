@@ -1,0 +1,52 @@
+#casaShop
+{
+	position :left ;
+	left : 40%;
+	top : 20%;
+	width : 15%;
+	height : 15%
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+
+#descrizioneShop
+{
+	position :relative  ;
+	left : 25%;
+    top :  -25%;
+    font-family: "futura"
+}
+
+#frecciaInDietro
+{
+	position :left ;
+	left : 397pt;
+	top : 907pt;
+	width : 3%;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+
+#frecciaHome
+{
+	position : left ;
+	left : 397pt;
+	top : 907pt;
+	width : 3%;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
+
+#frecciaAvanti
+{
+	position : left ;
+	left : 397pt;
+	top : 907pt;
+	width : 3%;
+	border-radius : 0pt;
+	-moz-border-radius : 0pt;
+	-webkit-border-radius : 0pt;
+}
